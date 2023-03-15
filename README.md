@@ -1,5 +1,5 @@
 # Digital-Health-Exercise
-This Exercise was part of the Module "Digital Health" at the Humboldt University of Berlin in the Wintersemester 2022/23. 
+This Exercise was part of the Module "Digital Health" at the Humboldt University of Berlin in the Winter semester 2022/23. 
 
 The Exercise included the following 3 Tasks listed below: 
 
