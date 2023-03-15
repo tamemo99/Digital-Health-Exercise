@@ -31,6 +31,7 @@ Create a file named [exercise01.fsh] containing both instances.
 Specify a simple guideline representation format by creating profiles of the following resources:
 
 **EvidenceVariable (Population)**
+
 Profile name: [Population]
 
 Allow only [codeableConcepts] from SNOMED CT for characteristics
@@ -46,6 +47,7 @@ Allow only [codeableConcepts] from SNOMED CT for characteristics
 Make [title] and [characteristic.description] required
 
 **ActivityDefinition (Intervention)**
+
 Profile name: [InterventionMedicationAdministration]
 
 Require [productCodeableConcept] and allow only SNOMED CT terms
@@ -57,6 +59,7 @@ Make [subjectCanonical] required and allow only your profile of EvidenceVariable
 Create a file named [exercise02.fsh] containing both profiles.
 
 # Exercise 3
+
 Use your own profiles to represent the recommendation from exercise 1
 
 Create a file named exercise03.fsh containing both instances
